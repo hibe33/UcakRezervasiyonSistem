@@ -1,0 +1,6 @@
+Hocam ben veri taban local host yaptim dosyalari ve veri taban tablolari mydata22 klasor icinde yerlestirdim
+program 2 harici kutuphane yukledim   rs2xml ve jcalender
+CONN_STRING="jdbc:mysql://localhost:3306/mydata22" ;
+admin kullanci adi ve sifre
+kullanci_adi = admin
+sifre = admin
